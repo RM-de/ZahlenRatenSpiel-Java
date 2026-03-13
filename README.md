@@ -1,7 +1,7 @@
 🇩🇪 Deutsch
 
 Ein interaktives Zahlenratespiel mit grafischer Benutzeroberfläche (Swing), das über die reine Spiellogik hinausgeht und moderne Software-Prinzipien anwendet. 
-Dieses Projekt wurde im Rahmen des Informatikstudiums (Niveau 3. Semester) entwickelt.
+Dieses Projekt wurde auf anspruchsvolle Niveau eines Informatikstudum (3. Semester)entwickelt, um fortgeschrittene Programmierkonzepte zu demonstrieren. 
 
 ✨ Highlights
 
@@ -26,7 +26,7 @@ Professionelle Benutzeroberfläche mit automatischer Zentrierung, fixierter Fens
 🇺🇸 English
 
 An interactive number guessing game with a graphical user interface (Swing) that goes beyond simple game logic by implementing modern software principles. 
-This project was developed to match the standards of a 3rd-semester computer science student.
+This project was developed to match the standards of #rd-semester computer science and students, demonstrating advanced programming concepts and software architecture.
 
 ✨ Highlights
 
