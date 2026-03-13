@@ -53,9 +53,9 @@ Professional UI design featuring auto-centering, fixed window dimensions, and a 
 ![Startbildschirm](screenshot1.png)
 
 ### 2- Spielverlauf und Ergebnisse / Game summary and results
-![Spielverlauf](screenshot1.png)
+![Spielverlauf](screenshot2.png)
 
-### 3- Fehlermeldung / Error message 
+### 3- Fehlermeldung / Error message
 ![Fehlermeldung](screenshot3.png)
 
 ### 4- Gewinnen Bildschirm / Win screen
