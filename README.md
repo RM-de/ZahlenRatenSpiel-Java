@@ -1,4 +1,4 @@
-Deutsch 
+🇩🇪 Deutsch
 
 Ein interaktives Zahlenratespiel mit grafischer Benutzeroberfläche (Swing), das über die reine Spiellogik hinausgeht und moderne Software-Prinzipien anwendet. 
 Dieses Projekt wurde im Rahmen des Informatikstudiums (Niveau 3. Semester) entwickelt.
