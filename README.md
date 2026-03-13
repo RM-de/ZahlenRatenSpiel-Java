@@ -1,3 +1,5 @@
+Deutsch 
+
 Ein interaktives Zahlenratespiel mit grafischer Benutzeroberfläche (Swing), das über die reine Spiellogik hinausgeht und moderne Software-Prinzipien anwendet. 
 Dieses Projekt wurde im Rahmen des Informatikstudiums (Niveau 3. Semester) entwickelt.
 ✨ Highlights
@@ -14,6 +16,7 @@ Dieses Projekt wurde im Rahmen des Informatikstudiums (Niveau 3. Semester) entwi
 
 
 🇺🇸 English
+
 An interactive number guessing game with a graphical user interface (Swing) that goes beyond simple game logic by implementing modern software principles. 
 This project was developed to match the standards of a 3rd-semester computer science student.
 ✨ Highlights
