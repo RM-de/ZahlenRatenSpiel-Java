@@ -2,6 +2,7 @@
 
 Ein interaktives Zahlenratespiel mit grafischer Benutzeroberfläche (Swing), das über die reine Spiellogik hinausgeht und moderne Software-Prinzipien anwendet. 
 Dieses Projekt wurde im Rahmen des Informatikstudiums (Niveau 3. Semester) entwickelt.
+
 ✨ Highlights
 
 • Intelligentes Datenmanagement:
@@ -12,6 +13,7 @@ Ein innovativer Algorithmus lässt Rekorde automatisch nach 7 Tagen verfallen, u
 Fängt ungültige Eingaben (Buchstaben, Sonderzeichen) sicher ab (try-catch), ohne das Programm zu unterbrechen.
 • Optimierte UX:
 Professionelle Benutzeroberfläche mit automatischer Zentrierung, fixierter Fenstergröße und flüssigem Workflow.
+
 🛠 Technische Details
 
 • Sprache: Java
