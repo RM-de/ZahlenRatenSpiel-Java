@@ -11,6 +11,8 @@ Dieses Projekt wurde im Rahmen des Informatikstudiums (Niveau 3. Semester) entwi
 • Layout: GridBagLayout für eine präzise Anordnung der Komponenten.
 • Version: v1.0 (Stable)
 <a name="english"></a>
+
+
 🇺🇸 English
 An interactive number guessing game with a graphical user interface (Swing) that goes beyond simple game logic by implementing modern software principles. 
 This project was developed to match the standards of a 3rd-semester computer science student.
