@@ -45,3 +45,21 @@ Professional UI design featuring auto-centering, fixed window dimensions, and a 
 • Framework: Swing (GUI)
 • Layout: GridBagLayout for precise component positioning.
 • Version: v1.0 (Stable)
+
+
+## Screenshots 🖼️
+
+### 1- Startbildschirm / Start Screen
+![Startbildschirm](screenshot1.png)
+
+### 2- Spielverlauf und Ergebnisse / Game summary and results
+![Spielverlauf](screenshot2.png)
+
+### 3- Fehlermeldung / Error message
+![Fehlermeldung](screenshot3.png)
+
+### 4- Gewinnen Bildschirm / Win screen
+![Gewinnen](screenshot4.png)
+
+### 5- Neuer Record / New record
+![Neuer Record](screenshot5.png)
