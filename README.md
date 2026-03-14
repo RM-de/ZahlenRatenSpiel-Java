@@ -17,10 +17,15 @@ Professionelle Benutzeroberfläche mit automatischer Zentrierung, fixierter Fens
 🛠 Technische Details
 
 • Sprache: Java
+
 • Framework: Swing (GUI)
+
 • Layout: GridBagLayout für eine präzise Anordnung der Komponenten.
+
 • Build-Tool: Maven (pom.xml)
+
 • Version: v1.0 (Stable) 
+
 <a name="english"></a>
 
 
@@ -43,9 +48,13 @@ Professional UI design featuring auto-centering, fixed window dimensions, and a 
 🛠 Technical Details
 
 • Language: Java
+
 • Framework: Swing (GUI)
+
 • Layout: GridBagLayout for precise component positioning.
+
 • Build-Tool: Maven (pom.xml)
+
 • Version: v1.0 (Stable)
 
 
