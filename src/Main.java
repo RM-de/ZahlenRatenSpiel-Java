@@ -383,7 +383,6 @@ public class Main {
     public static void RasoolsRound(Integer number) {
 
         eingabeField.setForeground(Color.BLACK);
-        System.out.println("DEBUG: User tippt: " + number + " | Ziel ist: " + myNumber);
         tries++;
         if (number.equals(myNumber)) {
 
