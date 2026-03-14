@@ -29,6 +29,7 @@ Professionelle Benutzeroberfläche mit automatischer Zentrierung, fixierter Fens
 <a name="english"></a>
 
 
+
 🇺🇸 English
 
 An interactive number guessing game with a graphical user interface (Swing) that goes beyond simple game logic by implementing modern software principles. 
