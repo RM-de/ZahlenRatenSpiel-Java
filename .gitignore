@@ -1,0 +1,15 @@
+# Maven - temporäre Dateien ignorieren
+target/
+*.class
+
+# IDE Einstellungen (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.factorypath
+
+# Betriebssystem-Müll
+.DS_Store
+Thumbs.db
