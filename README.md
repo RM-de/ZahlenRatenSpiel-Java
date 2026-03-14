@@ -1,7 +1,7 @@
 🇩🇪 Deutsch
 
 Ein interaktives Zahlenratespiel mit grafischer Benutzeroberfläche (Swing), das über die reine Spiellogik hinausgeht und moderne Software-Prinzipien anwendet. 
-Dieses Projekt wurde auf anspruchsvolle Niveau eines Informatikstudum (3. Semester)entwickelt, um fortgeschrittene Programmierkonzepte zu demonstrieren. 
+Die Software-Architektur wurde gezielt auf dem anspruchsvollen Niveau eines Informatikstudum (3. Semester) entwickelt, um fortgeschrittenen Programmierkonzepte zu demonstrieren. 
 
 ✨ Highlights
 
@@ -19,14 +19,15 @@ Professionelle Benutzeroberfläche mit automatischer Zentrierung, fixierter Fens
 • Sprache: Java
 • Framework: Swing (GUI)
 • Layout: GridBagLayout für eine präzise Anordnung der Komponenten.
-• Version: v1.0 (Stable)
+• Build-Tool: Maven (pom.xml)
+• Version: v1.0 (Stable) 
 <a name="english"></a>
 
 
 🇺🇸 English
 
 An interactive number guessing game with a graphical user interface (Swing) that goes beyond simple game logic by implementing modern software principles. 
-This project was developed to match the standards of #rd-semester computer science and students, demonstrating advanced programming concepts and software architecture.
+This project was developed to match the hight standarts of 3rd-semester copmuter science students, demonstring advenced programming concepts and software architecture.
 
 ✨ Highlights
 
@@ -44,6 +45,7 @@ Professional UI design featuring auto-centering, fixed window dimensions, and a 
 • Language: Java
 • Framework: Swing (GUI)
 • Layout: GridBagLayout for precise component positioning.
+• Build-Tool: Maven (pom.xml)
 • Version: v1.0 (Stable)
 
 
