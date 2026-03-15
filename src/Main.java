@@ -384,7 +384,7 @@ public class Main {
         tries++;
         if (number.equals(myNumber)) {
 
-            String name = JOptionPane.showInputDialog(frame, " Glückwunsch! Bitte gegbe deine Name ein!");
+            String name = JOptionPane.showInputDialog(frame, " Glückwunsch! Bitte gegbe deine Name ein! ");
 
             if (name == null || name.isEmpty()) {
                 name = "Unbekannt";
