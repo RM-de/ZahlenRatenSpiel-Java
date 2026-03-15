@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -28,3 +29,20 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+# Maven - temporäre Dateien ignorieren
+target/
+*.class
+
+# IDE Einstellungen (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.factorypath
+
+# Betriebssystem-Müll
+.DS_Store
+Thumbs.db
+>>>>>>> 7b740dbf365b9a686465ba5b36541950351b4880

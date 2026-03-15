@@ -132,7 +132,7 @@ public class Main {
         resultDetailsField.setBackground(Color.WHITE);
 
 
-        hinweisText = new JLabel("Bitte geben Sie eine Zahl zwischen 0 und 10000 ein! ");
+        hinweisText = new JLabel(" Bitte geben Sie eine Zahl zwischen 0 und 10000 ein! ");
         hinweisText.setPreferredSize(feldGroße);
         hinweisText.setFont(new Font("Arial", Font.PLAIN, 14));
 
@@ -381,7 +381,6 @@ public class Main {
     public static void RasoolsRound(Integer number) {
 
         eingabeField.setForeground(Color.BLACK);
-        System.out.println("DEBUG: Unser tippt: " + number + " |  Ziel ist: " + myNumber);
         tries++;
         if (number.equals(myNumber)) {
 
