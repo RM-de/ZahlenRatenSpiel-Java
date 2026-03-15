@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZahlenRatenSpiel.11.03.2026:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZahlenRatenSpiel_11_03_2026_jar</output-path>
+    <root id="archive" name="ZahlenRatenSpiel.11.03.2026.jar">
+      <element id="module-output" name="ZahlenRatenSpiel.11.03.2026" />
+    </root>
+  </artifact>
+</component>
