@@ -179,13 +179,10 @@ public class Main {
                 } catch (Exception exception) {
                     if (!eingabeField.getText().equals("Bitte klicken Sie auf (Try again)")) {
                         resultDetailsField.setText("Bitte geben Sie nur Zahlen ein!");
-
-
                         resultDetailsField.setFont(new Font("Arial", Font.PLAIN, 14));
                         resultDetailsField.setForeground(Color.RED);
                         eingabeField.setText("");
                         eingabeField.requestFocusInWindow();
-
                     }
                 }
             }
@@ -199,8 +196,6 @@ public class Main {
                 tries = 0;
                 eingabeField.setEditable(true);
                 eingabeField.setText("");
-
-
                 button.setEnabled(true);
                 resultDetailsField.setText("Neues Spiel! Rate die Zahl! 😊");
                 resultDetailsField.setFont(new Font("Arial", Font.PLAIN, 14));
@@ -409,7 +404,7 @@ public class Main {
 
                 resultDetailsField.setText("Glückwunsch! " + name + " hat " + tries + " Versuche gebraucht.");
                 resultDetailsField.setForeground(new Color(0, 150, 0));
-                resultDetailsField.setFont(new Font("Arial" , Font.PLAIN,13));
+                resultDetailsField.setFont(new Font("Arial", Font.PLAIN, 13));
             }
 
             speichereDaten(bestName, bestRecord, recordTimestamp, name, tries);
@@ -423,19 +418,18 @@ public class Main {
         }
 
         if (number < myNumber) {
-            System.out.println("Falsch! Die Zahl ist zu klein!");
-            resultDetailsField.setText( " Falsch!  " + number + "  ist zu klein! " );
-
+            resultDetailsField.setText(" Falsch!  " + number + "  ist zu klein! ");
+            eingabeField.setText("");
+            eingabeField.requestFocusInWindow();
+            resultDetailsField.setForeground(Color.RED);
         } else {
 
-            System.out.println("Falsch! Die Zahl ist zu groß!");
-            resultDetailsField.setText( " Falsch!  " +  number  + "  ist zu groß! ");
+            resultDetailsField.setText(" Falsch!  " + number + "  ist zu groß! ");
+            resultDetailsField.setFont(new Font("Arial", Font.PLAIN, 15));
+            resultDetailsField.setForeground(Color.RED);
+            eingabeField.setText("");
+            eingabeField.requestFocusInWindow();
         }
-
-        resultDetailsField.setFont(new Font("Arial", Font.PLAIN, 15));
-        resultDetailsField.setForeground(Color.RED);
-        eingabeField.setText("");
-        eingabeField.requestFocusInWindow();
     }
 
     public static void speichereDaten(String bestName, int bestRecord, long recordTimestamp, String lastName, int lastRecord) {
