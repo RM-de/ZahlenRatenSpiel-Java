@@ -445,6 +445,7 @@ public class Main {
     }
 
     public static void ladeDaten() {
+        
         File datei = new File("ergebnisse.txt");
         if (!datei.exists()) return;
 
