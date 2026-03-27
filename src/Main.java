@@ -51,6 +51,7 @@ public class Main {
         }
 
         openUI();
+        ladeDaten();
     }
 
     public static void openUI() {
@@ -368,7 +369,7 @@ public class Main {
         frame.pack();
         eingabeField.requestFocusInWindow();
         frame.setLocationRelativeTo(null);
-        ladeDaten();
+        
         frame.setVisible(true);
 
     }
