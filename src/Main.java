@@ -369,7 +369,6 @@ public class Main {
         frame.pack();
         eingabeField.requestFocusInWindow();
         frame.setLocationRelativeTo(null);
-        
         frame.setVisible(true);
 
     }
