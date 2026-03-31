@@ -4,11 +4,10 @@ on:
    branches:
      - main
  schedule:
-   - cron: '1 0 * * *' # Läuft automatisch jede Nacht um 01:00 Uhr
+   - cron: '1 0 * * *'
 
 jobs:
  run:
-   name: Make GitHub Traffic to Badge
    runs-on: ubuntu-latest
    steps:
      - name: Checkout Code
@@ -19,5 +18,11 @@ jobs:
        with:
          my_token: ${{ secrets.TRAFFIC_TOKEN }}
          static_list: ZahlenRatenSpiel-Java
+         year: 2026
 
-Von meinem iPhone gesendet
+     - name: Deploy
+       uses: peaceiris/actions-gh-pages@v3
+       with:
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         publish_branch: traffic
+         publish_dir: ./traffic
