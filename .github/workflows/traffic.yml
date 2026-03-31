@@ -4,7 +4,7 @@ on:
    branches:
      - main
  schedule:
-   - cron: '1 0 * * *'
+   - cron: '1 0 * * *' # Läuft automatisch jede Nacht um 01:00 Uhr
 
 jobs:
  run:
@@ -14,32 +14,10 @@ jobs:
      - name: Checkout Code
        uses: actions/checkout@v3
 
-     - name: Get Commit Message
-       id: message
-       uses: actions/github-script@v6
-       env:
-         FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
-       with:
-         result-encoding: string
-         script: |
-           var message = `${process.env.FULL_COMMIT_MESSAGE}`;
-           if (message != 'undefined' && message != '') return message;
-           return `Get traffic data at ${new Date().toISOString()}`;
-
      - name: Set Traffic
-       id: traffic
        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
        with:
          my_token: ${{ secrets.TRAFFIC_TOKEN }}
          static_list: ZahlenRatenSpiel-Java
-         year: 2026
 
-     - name: Deploy
-       uses: peaceiris/actions-gh-pages@v3
-       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         publish_branch: traffic
-         publish_dir: ./traffic
-         user_name: 'github-actions[bot]'
-         user_email: 'github-actions[bot]@users.noreply.github.com'
-         full_commit_message: ${{ steps.message.outputs.result }}
+Von meinem iPhone gesendet
