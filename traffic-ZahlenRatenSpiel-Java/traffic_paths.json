@@ -1,62 +1,62 @@
 [
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
-    "title": "RM-de/ZahlenRatenSpiel-Java",
-    "count": 35,
-    "uniques": 3
+    "title": "Overview",
+    "count": 34,
+    "uniques": 4
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/src/Main.java",
-    "title": "ZahlenRatenSpiel-Java/src at main · RM-de/ZahlenRatenSpiel-Java",
-    "count": 15,
-    "uniques": 2
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
+    "title": "/blob/main/.github/workflows/traffic.yml",
+    "count": 19,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
+    "title": "/actions",
+    "count": 16,
+    "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/graphs/traffic",
-    "title": "Traffic · RM-de/ZahlenRatenSpiel-Java",
-    "count": 12,
+    "title": "/graphs/traffic",
+    "count": 15,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
-    "title": "Releases · RM-de/ZahlenRatenSpiel-Java",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/src",
-    "title": "RM-de/ZahlenRatenSpiel-Java",
-    "count": 11,
+    "title": "/releases",
+    "count": 13,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
-    "title": "Pulse · RM-de/ZahlenRatenSpiel-Java",
+    "title": "/pulse",
+    "count": 12,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 12,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/.github/workflows/traffic.yml",
+    "title": "/edit/main/.github/workflows/traffic.yml",
     "count": 9,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/ZahlenRatenSpiel.11.03.2026.iml",
-    "title": "RM-de/ZahlenRatenSpiel-Java",
-    "count": 3,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/23774387083",
+    "title": "/actions/runs/23774387083",
+    "count": 5,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.idea",
-    "title": "RM-de/ZahlenRatenSpiel-Java",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.gitignore",
-    "title": "RM-de/ZahlenRatenSpiel-Java",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/README.md",
-    "title": "RM-de/ZahlenRatenSpiel-Java",
-    "count": 2,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
+    "title": "/actions/workflows/traffic.yml",
+    "count": 4,
     "uniques": 1
   }
 ]
