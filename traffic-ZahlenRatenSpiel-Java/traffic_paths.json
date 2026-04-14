@@ -2,48 +2,54 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 34,
-    "uniques": 4
+    "count": 35,
+    "uniques": 2
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
     "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 19,
+    "count": 28,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
     "title": "/actions",
-    "count": 16,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/graphs/traffic",
-    "title": "/graphs/traffic",
-    "count": 15,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
-    "title": "/releases",
-    "count": 13,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
-    "title": "/pulse",
-    "count": 12,
+    "count": 18,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
+    "count": 17,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/graphs/traffic",
+    "title": "/graphs/traffic",
+    "count": 16,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
+    "title": "/pulse",
+    "count": 14,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
+    "title": "/releases",
     "count": 12,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/.github/workflows/traffic.yml",
     "title": "/edit/main/.github/workflows/traffic.yml",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
+    "title": "/actions/workflows/traffic.yml",
     "count": 9,
     "uniques": 1
   },
@@ -51,12 +57,6 @@
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/23774387083",
     "title": "/actions/runs/23774387083",
     "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
-    "title": "/actions/workflows/traffic.yml",
-    "count": 4,
     "uniques": 1
   }
 ]
