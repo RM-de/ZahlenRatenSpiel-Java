@@ -2,7 +2,7 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 34,
+    "count": 38,
     "uniques": 1
   },
   {
@@ -12,15 +12,21 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
-    "title": "/graphs/traffic",
-    "count": 11,
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/src/Main.java",
+    "title": "/blob/main/src/Main.java",
+    "count": 10,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/releases",
     "title": "/releases",
-    "count": 11,
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/tree/main/src",
+    "title": "/tree/main/src",
+    "count": 10,
     "uniques": 1
   },
   {
@@ -30,26 +36,20 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/src/Main.java",
-    "title": "/blob/main/src/Main.java",
+    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
+    "title": "/graphs/traffic",
     "count": 9,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/tree/main/src",
-    "title": "/tree/main/src",
-    "count": 9,
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot1.png",
+    "title": "/blob/main/screenshot1.png",
+    "count": 8,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot2.png",
     "title": "/blob/main/screenshot2.png",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/pulse",
-    "title": "/pulse",
     "count": 8,
     "uniques": 1
   },

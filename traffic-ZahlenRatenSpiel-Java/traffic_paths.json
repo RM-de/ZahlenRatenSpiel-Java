@@ -2,37 +2,25 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 35,
-    "uniques": 2
+    "count": 31,
+    "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
     "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 28,
+    "count": 23,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
     "title": "/actions",
-    "count": 18,
+    "count": 17,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
-    "count": 17,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/graphs/traffic",
-    "title": "/graphs/traffic",
-    "count": 16,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
-    "title": "/pulse",
-    "count": 14,
+    "count": 15,
     "uniques": 1
   },
   {
@@ -42,15 +30,27 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/.github/workflows/traffic.yml",
-    "title": "/edit/main/.github/workflows/traffic.yml",
-    "count": 11,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
+    "title": "/actions/workflows/traffic.yml",
+    "count": 8,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
-    "title": "/actions/workflows/traffic.yml",
-    "count": 9,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/.github/workflows/traffic.yml",
+    "title": "/edit/main/.github/workflows/traffic.yml",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/graphs/traffic",
+    "title": "/graphs/traffic",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
+    "title": "/pulse",
+    "count": 7,
     "uniques": 1
   },
   {
