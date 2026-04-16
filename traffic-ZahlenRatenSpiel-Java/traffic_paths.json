@@ -2,43 +2,19 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 31,
+    "count": 26,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
     "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 23,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
-    "title": "/actions",
-    "count": 17,
+    "count": 12,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
-    "count": 15,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
-    "title": "/releases",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
-    "title": "/actions/workflows/traffic.yml",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/.github/workflows/traffic.yml",
-    "title": "/edit/main/.github/workflows/traffic.yml",
-    "count": 8,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -54,9 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/23774387083",
-    "title": "/actions/runs/23774387083",
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24317398045",
+    "title": "/actions/runs/24317398045",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
+    "title": "/actions/workflows/traffic.yml",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
+    "title": "/releases",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
+    "title": "/actions",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/src/Main.java",
+    "title": "/blob/main/src/Main.java",
+    "count": 3,
     "uniques": 1
   }
 ]

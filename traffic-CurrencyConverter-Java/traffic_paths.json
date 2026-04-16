@@ -2,7 +2,7 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 38,
+    "count": 30,
     "uniques": 1
   },
   {
@@ -30,33 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot3.png",
-    "title": "/blob/main/screenshot3.png",
-    "count": 9,
+    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
+    "title": "/graphs/traffic",
+    "count": 8,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
-    "title": "/graphs/traffic",
-    "count": 9,
+    "path": "/RM-de/CurrencyConverter-Java/pulse",
+    "title": "/pulse",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot1.png",
     "title": "/blob/main/screenshot1.png",
-    "count": 8,
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot2.png",
-    "title": "/blob/main/screenshot2.png",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/actions/runs/23819162095",
-    "title": "/actions/runs/23819162095",
-    "count": 7,
+    "path": "/RM-de/CurrencyConverter-Java/actions",
+    "title": "/actions",
+    "count": 2,
     "uniques": 1
   }
 ]
