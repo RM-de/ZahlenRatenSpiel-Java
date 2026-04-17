@@ -2,60 +2,60 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 30,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/.github/workflows/main.yml",
-    "title": "/blob/main/.github/workflows/main.yml",
-    "count": 11,
+    "count": 26,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/blob/main/src/Main.java",
     "title": "/blob/main/src/Main.java",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/releases",
-    "title": "/releases",
-    "count": 10,
+    "count": 8,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/tree/main/src",
     "title": "/tree/main/src",
-    "count": 10,
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/.github/workflows/main.yml",
+    "title": "/blob/main/.github/workflows/main.yml",
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
     "title": "/graphs/traffic",
-    "count": 8,
+    "count": 6,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/pulse",
     "title": "/pulse",
-    "count": 6,
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/releases",
+    "title": "/releases",
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot1.png",
-    "title": "/blob/main/screenshot1.png",
-    "count": 4,
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/actions",
     "title": "/actions",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/.gitignore",
+    "title": "/blob/main/.gitignore",
     "count": 2,
     "uniques": 1
   }
