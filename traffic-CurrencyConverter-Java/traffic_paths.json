@@ -2,7 +2,13 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 19,
+    "count": 20,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/releases",
+    "title": "/releases",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -36,26 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/releases",
-    "title": "/releases",
-    "count": 3,
+    "path": "/RM-de/CurrencyConverter-Java/releases/edit/v2.0",
+    "title": "/releases/edit/v2.0",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/releases/tag/v2.0",
+    "title": "/releases/tag/v2.0",
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/blob/main/.github/workflows/main.yml",
     "title": "/blob/main/.github/workflows/main.yml",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/.gitignore",
-    "title": "/blob/main/.gitignore",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/screenshot1.png",
-    "title": "/blob/main/screenshot1.png",
     "count": 2,
     "uniques": 1
   }
