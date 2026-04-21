@@ -2,13 +2,7 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 20,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/releases",
-    "title": "/releases",
-    "count": 6,
+    "count": 16,
     "uniques": 1
   },
   {
@@ -18,8 +12,8 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/pulse",
-    "title": "/pulse",
+    "path": "/RM-de/CurrencyConverter-Java/releases",
+    "title": "/releases",
     "count": 5,
     "uniques": 1
   },
@@ -36,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
-    "title": "/graphs/traffic",
+    "path": "/RM-de/CurrencyConverter-Java/pulse",
+    "title": "/pulse",
     "count": 4,
     "uniques": 1
   },
@@ -51,6 +45,12 @@
     "path": "/RM-de/CurrencyConverter-Java/releases/tag/v2.0",
     "title": "/releases/tag/v2.0",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
+    "title": "/graphs/traffic",
+    "count": 3,
     "uniques": 1
   },
   {

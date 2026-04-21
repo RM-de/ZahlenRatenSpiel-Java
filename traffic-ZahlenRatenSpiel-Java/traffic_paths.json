@@ -2,19 +2,19 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 30,
+    "count": 26,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
     "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 15,
+    "count": 14,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
-    "count": 13,
+    "count": 12,
     "uniques": 1
   },
   {
@@ -26,13 +26,7 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
     "title": "/releases",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
-    "title": "/pulse",
-    "count": 6,
+    "count": 9,
     "uniques": 1
   },
   {
@@ -56,6 +50,12 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
     "title": "/actions/workflows/traffic.yml",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/pulse",
+    "title": "/pulse",
     "count": 5,
     "uniques": 1
   }
