@@ -8,18 +8,18 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
     "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 14,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
-    "count": 12,
+    "count": 13,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/ergebnisse.txt",
     "title": "/blob/main/ergebnisse.txt",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
     "count": 10,
     "uniques": 1
   },
@@ -30,15 +30,15 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/src",
-    "title": "/tree/main/src",
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
+    "title": "/actions",
     "count": 6,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
-    "title": "/actions",
-    "count": 5,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/src",
+    "title": "/tree/main/src",
+    "count": 6,
     "uniques": 1
   },
   {
