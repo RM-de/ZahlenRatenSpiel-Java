@@ -2,61 +2,61 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 19,
+    "count": 34,
     "uniques": 3
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/releases",
-    "title": "/releases",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/src/Main.java",
-    "title": "/blob/main/src/Main.java",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/releases/tag/v2.0",
-    "title": "/releases/tag/v2.0",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/releases/edit/v2.0",
-    "title": "/releases/edit/v2.0",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/tree/main/src",
-    "title": "/tree/main/src",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/actions",
     "title": "/actions",
-    "count": 3,
+    "count": 31,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/pulse",
-    "title": "/pulse",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/tree/traffic",
-    "title": "/tree/traffic",
-    "count": 3,
+    "path": "/RM-de/CurrencyConverter-Java/releases",
+    "title": "/releases",
+    "count": 31,
     "uniques": 1
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 2,
+    "count": 16,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/actions/new",
+    "title": "/actions/new",
+    "count": 14,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/edit/main/README.md",
+    "title": "/edit/main/README.md",
+    "count": 14,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/tree/main",
+    "title": "/tree/main",
+    "count": 13,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/new/main",
+    "title": "/new/main",
+    "count": 9,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/actions/runs/25025077778",
+    "title": "/actions/runs/25025077778",
+    "count": 8,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/releases/tag/v2.0",
+    "title": "/releases/tag/v2.0",
+    "count": 8,
     "uniques": 1
   }
 ]
