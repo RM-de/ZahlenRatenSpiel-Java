@@ -2,37 +2,25 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 37,
+    "count": 31,
     "uniques": 2
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
     "title": "/actions",
-    "count": 12,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
-    "count": 12,
+    "count": 7,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/check-java.yml",
     "title": "/blob/main/.github/workflows/check-java.yml",
-    "count": 11,
+    "count": 7,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
     "title": "/releases",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24801312523",
-    "title": "/actions/runs/24801312523",
-    "count": 6,
+    "count": 7,
     "uniques": 1
   },
   {
@@ -42,21 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/traffic",
-    "title": "/tree/traffic",
-    "count": 5,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 6,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24801312523/job/72584335042",
-    "title": "/actions/runs/24801312523/job/72584335042",
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/traffic",
+    "title": "/tree/traffic",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/src",
+    "title": "/tree/main/src",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24801312523",
+    "title": "/actions/runs/24801312523",
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/.github/workflows/check-java.yml",
     "title": "/edit/main/.github/workflows/check-java.yml",
-    "count": 4,
+    "count": 3,
     "uniques": 1
   }
 ]
