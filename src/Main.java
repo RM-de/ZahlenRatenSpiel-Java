@@ -1,3 +1,4 @@
+package src;
 import javax.swing.*;
 import javax.swing.event.AncestorEvent;
 import javax.swing.event.AncestorListener;
@@ -374,7 +375,7 @@ public class Main {
     }
 
     public static void RasoolsRound(Integer number) {
-
+        System.out.println("DEBUGI: User tippt:" + number + " | Ziel ist: " + myNumber);
         eingabeField.setForeground(Color.BLACK);
         tries++;
         if (number.equals(myNumber)) {
