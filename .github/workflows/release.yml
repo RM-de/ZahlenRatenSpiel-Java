@@ -1,4 +1,4 @@
-name: Create Release
+name: Java CD with Maven
 
 on:
  push:
