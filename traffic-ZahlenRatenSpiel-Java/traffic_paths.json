@@ -2,61 +2,61 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 28,
-    "uniques": 2
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/traffic",
-    "title": "/tree/traffic",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
-    "title": "/actions",
-    "count": 5,
+    "count": 61,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
     "title": "/releases",
-    "count": 5,
+    "count": 30,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
+    "title": "/actions",
+    "count": 20,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
     "title": "/tree/main/.github/workflows",
-    "count": 5,
+    "count": 19,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24801312523",
-    "title": "/actions/runs/24801312523",
-    "count": 3,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/releases/tag/v2.0",
+    "title": "/releases/tag/v2.0",
+    "count": 15,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24801312523/job/72584335042",
-    "title": "/actions/runs/24801312523/job/72584335042",
-    "count": 2,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/pom.xml",
+    "title": "/blob/main/pom.xml",
+    "count": 9,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24855434064",
-    "title": "/actions/runs/24855434064",
-    "count": 2,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/check-java.yml",
+    "title": "/blob/main/.github/workflows/check-java.yml",
+    "count": 8,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24855818007",
-    "title": "/actions/runs/24855818007",
-    "count": 2,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/release.yml",
+    "title": "/blob/main/.github/workflows/release.yml",
+    "count": 8,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/24868546121/job/72809891910",
-    "title": "/actions/runs/24868546121/job/72809891910",
-    "count": 2,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/traffic",
+    "title": "/tree/traffic",
+    "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
+    "title": "/blob/main/.github/workflows/traffic.yml",
+    "count": 6,
     "uniques": 1
   }
 ]
