@@ -20,7 +20,6 @@ public class Main {
     static String bestName = "_";
     static int lastRecord = Integer.MAX_VALUE;
     static String lastName = "_";
-
     static Integer myNumber = ThreadLocalRandom.current().nextInt(0, 10000 + 1);
     static Integer tries = 0;
     static JFrame frame;
@@ -164,14 +163,11 @@ public class Main {
         button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
                 try {
-
                     eingabeField.setForeground(Color.BLACK);
                     String textFromEingabeField = eingabeField.getText();
-
                     if (textFromEingabeField.equals("Bitte klicken Sie auf (Try again)")) {
-
+                        button.setEnabled(false);
                         return;
                     }
                     Integer number = Integer.parseInt(textFromEingabeField);
