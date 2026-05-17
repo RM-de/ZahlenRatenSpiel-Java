@@ -233,14 +233,14 @@
       "uniques": 8
     },
     {
-      "timestamp": "2026-05-02T00:00:00Z",
-      "count": 12,
-      "uniques": 7
-    },
-    {
       "timestamp": "2026-05-03T00:00:00Z",
       "count": 18,
       "uniques": 11
+    },
+    {
+      "timestamp": "2026-05-02T00:00:00Z",
+      "count": 12,
+      "uniques": 7
     },
     {
       "timestamp": "2026-05-04T00:00:00Z",
