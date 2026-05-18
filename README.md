@@ -1,3 +1,4 @@
+ZahlenRatenSpiel (Java)
 🇩🇪 Deutsch
 
 Ein interaktives Zahlenratespiel mit grafischer Benutzeroberfläche (Swing), das über die reine Spiellogik hinausgeht und moderne Software-Prinzipien anwendet. 
@@ -29,7 +30,7 @@ Professionelle Benutzeroberfläche mit automatischer Zentrierung, fixierter Fens
 <a name="english"></a>
 
 
-
+NumberGuessingGame (Java)
 🇺🇸 English
 
 An interactive number guessing game with a graphical user interface (Swing) that goes beyond simple game logic by implementing modern software principles. 
