@@ -2,25 +2,25 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 55,
+    "count": 60,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
     "title": "/releases",
-    "count": 34,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
-    "count": 18,
+    "count": 36,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
     "title": "/actions",
-    "count": 17,
+    "count": 21,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 20,
     "uniques": 1
   },
   {
@@ -36,6 +36,12 @@
     "uniques": 1
   },
   {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
+    "title": "/blob/main/.github/workflows/traffic.yml",
+    "count": 10,
+    "uniques": 1
+  },
+  {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/release.yml",
     "title": "/blob/main/.github/workflows/release.yml",
     "count": 8,
@@ -44,12 +50,6 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/check-java.yml",
     "title": "/blob/main/.github/workflows/check-java.yml",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
-    "title": "/blob/main/.github/workflows/traffic.yml",
     "count": 7,
     "uniques": 1
   },
