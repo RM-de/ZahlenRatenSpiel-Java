@@ -2,7 +2,7 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 72,
+    "count": 64,
     "uniques": 1
   },
   {
@@ -20,7 +20,7 @@
   {
     "path": "/RM-de/CurrencyConverter-Java/actions",
     "title": "/actions",
-    "count": 22,
+    "count": 13,
     "uniques": 1
   },
   {
@@ -30,26 +30,14 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/releases",
-    "title": "/releases",
-    "count": 11,
-    "uniques": 1
-  },
-  {
     "path": "/RM-de/CurrencyConverter-Java/upload/main",
     "title": "/upload/main",
     "count": 10,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/pulse",
-    "title": "/pulse",
-    "count": 9,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/graphs/traffic",
-    "title": "/graphs/traffic",
+    "path": "/RM-de/CurrencyConverter-Java/releases",
+    "title": "/releases",
     "count": 8,
     "uniques": 1
   },
@@ -57,6 +45,18 @@
     "path": "/RM-de/CurrencyConverter-Java/blob/main/pom.xml",
     "title": "/blob/main/pom.xml",
     "count": 7,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/Currency Converter-1.png",
+    "title": "/blob/main/Currency Converter-1.png",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/Currency Converter-3.png",
+    "title": "/blob/main/Currency Converter-3.png",
+    "count": 4,
     "uniques": 1
   }
 ]
