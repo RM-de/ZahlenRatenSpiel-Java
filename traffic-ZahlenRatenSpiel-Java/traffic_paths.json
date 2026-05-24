@@ -2,61 +2,61 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 53,
+    "count": 15,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
     "title": "/releases",
-    "count": 36,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
-    "title": "/actions",
-    "count": 20,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
-    "count": 19,
+    "count": 11,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/pom.xml",
     "title": "/blob/main/pom.xml",
-    "count": 15,
+    "count": 7,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/releases/tag/v2.0",
-    "title": "/releases/tag/v2.0",
-    "count": 13,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/traffic.yml",
+    "title": "/actions/workflows/traffic.yml",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
+    "title": "/actions",
+    "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/traffic.yml",
     "title": "/blob/main/.github/workflows/traffic.yml",
-    "count": 10,
+    "count": 4,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/release.yml",
-    "title": "/blob/main/.github/workflows/release.yml",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/check-java.yml",
-    "title": "/blob/main/.github/workflows/check-java.yml",
-    "count": 7,
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/pom.xml",
     "title": "/edit/main/pom.xml",
-    "count": 7,
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/traffic",
+    "title": "/tree/traffic",
+    "count": 4,
     "uniques": 1
   }
 ]
