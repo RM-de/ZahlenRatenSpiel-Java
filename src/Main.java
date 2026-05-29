@@ -64,17 +64,21 @@ public class Main {
         gbc.fill = GridBagConstraints.HORIZONTAL;
         gbc.insets = new Insets(30, 10, 2, 10);
         Dimension feldGroße = new Dimension(140, 30);
+        Color denimBlue = new Color(30, 80, 100);
+        frame.getContentPane().setBackground(denimBlue);
+        ((JComponent)frame.getContentPane()).setBorder(BorderFactory.createLineBorder(Color.WHITE,1));
 
 
         nameLabel = new JLabel("Name:");
         nameLabel.setPreferredSize(feldGroße);
         nameLabel.setFont(new Font("Arial", Font.PLAIN, 15));
+        nameLabel.setForeground(Color.WHITE);
 
 
         experienceLabel = new JLabel("Experience:");
         experienceLabel.setPreferredSize(feldGroße);
         experienceLabel.setFont(new Font("Arial", Font.PLAIN, 15));
-
+        experienceLabel.setForeground(Color.WHITE);
 
         JTextField bestRecordLabelField = new JTextField("Best Record:");
         bestRecordLabelField.setPreferredSize(feldGroße);
@@ -135,7 +139,7 @@ public class Main {
         hinweisText = new JLabel(" Bitte geben Sie eine Zahl zwischen 0 und 10000 ein! ");
         hinweisText.setPreferredSize(feldGroße);
         hinweisText.setFont(new Font("Arial", Font.PLAIN, 14));
-
+        hinweisText.setForeground(Color.WHITE);
 
         eingabeField = new JTextField();
         eingabeField.setPreferredSize(feldGroße);
