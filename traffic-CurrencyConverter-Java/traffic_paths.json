@@ -2,37 +2,7 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 42,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/edit/main/README.md",
-    "title": "/edit/main/README.md",
-    "count": 42,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 40,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/upload/main",
-    "title": "/upload/main",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/tree/main",
-    "title": "/tree/main",
-    "count": 8,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/Currency Converter-1.png",
-    "title": "/blob/main/Currency Converter-1.png",
-    "count": 5,
+    "count": 12,
     "uniques": 1
   },
   {
@@ -42,21 +12,51 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/Currency Converter-3.png",
-    "title": "/blob/main/Currency Converter-3.png",
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/README.md",
+    "title": "/blob/main/README.md",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/upload",
-    "title": "/upload",
+    "path": "/RM-de/CurrencyConverter-Java/edit/main/README.md",
+    "title": "/edit/main/README.md",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/RM-de/CurrencyConverter-Java/blob/main/Currency Converter.png",
-    "title": "/blob/main/Currency Converter.png",
-    "count": 3,
+    "path": "/RM-de/CurrencyConverter-Java/pulse",
+    "title": "/pulse",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/tree/main/src",
+    "title": "/tree/main/src",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/tree/traffic",
+    "title": "/tree/traffic",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blame/main/README.md",
+    "title": "/blame/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/.github/workflows/maven.yml",
+    "title": "/blob/main/.github/workflows/maven.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/blob/main/.github/workflows/release.yml",
+    "title": "/blob/main/.github/workflows/release.yml",
+    "count": 1,
     "uniques": 1
   }
 ]
