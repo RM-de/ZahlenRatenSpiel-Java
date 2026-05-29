@@ -64,7 +64,7 @@ public class Main {
         gbc.fill = GridBagConstraints.HORIZONTAL;
         gbc.insets = new Insets(30, 10, 2, 10);
         Dimension feldGroße = new Dimension(140, 30);
-        Color denimBlue = new Color(30, 80, 100);
+        Color denimBlue = new Color(52, 106, 131);
         frame.getContentPane().setBackground(denimBlue);
         ((JComponent)frame.getContentPane()).setBorder(BorderFactory.createLineBorder(Color.WHITE,1));
 
@@ -159,7 +159,7 @@ public class Main {
 
 
         JLabel erfolgLabel = new JLabel("Viel Erfolg: 🏆");
-        erfolgLabel.setForeground(new Color(0, 150, 0));
+        erfolgLabel.setForeground(new Color(250, 250, 20));
         erfolgLabel.setPreferredSize(feldGroße);
         erfolgLabel.setFont(new Font("Arial", Font.PLAIN, 16));
 
