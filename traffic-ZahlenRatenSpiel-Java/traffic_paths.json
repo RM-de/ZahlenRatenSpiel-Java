@@ -2,7 +2,19 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 8,
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
+    "title": "/actions",
+    "count": 11,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
+    "title": "/releases",
+    "count": 7,
     "uniques": 1
   },
   {
@@ -12,21 +24,21 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
-    "title": "/actions",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/README.md",
     "title": "/blob/main/README.md",
     "count": 4,
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
-    "title": "/releases",
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
+    "title": "/tree/main/.github/workflows",
     "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/26636277212",
+    "title": "/actions/runs/26636277212",
+    "count": 3,
     "uniques": 1
   },
   {
@@ -44,18 +56,6 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/25950470549",
     "title": "/actions/runs/25950470549",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/runs/25950470549/job/76287195837",
-    "title": "/actions/runs/25950470549/job/76287195837",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/.github/workflows",
-    "title": "/tree/main/.github/workflows",
     "count": 2,
     "uniques": 1
   }
