@@ -8,7 +8,7 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 6,
+    "count": 5,
     "uniques": 1
   },
   {
@@ -24,20 +24,8 @@
     "uniques": 1
   },
   {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "path": "/RM-de/ZahlenRatenSpiel-Java/compare/mein_new_feature_ui",
     "title": "/compare/mein_new_feature_ui",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/edit/main/README.md",
-    "title": "/edit/main/README.md",
     "count": 2,
     "uniques": 1
   },
@@ -56,6 +44,18 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions/new",
     "title": "/actions/new",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/release.yml",
+    "title": "/blob/main/.github/workflows/release.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/new/main",
+    "title": "/new/main",
     "count": 1,
     "uniques": 1
   }
