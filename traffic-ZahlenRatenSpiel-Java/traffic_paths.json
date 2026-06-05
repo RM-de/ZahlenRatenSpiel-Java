@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/src",
+    "title": "/tree/main/src",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions/new",
     "title": "/actions/new",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/.github/workflows/release.yml",
     "title": "/blob/main/.github/workflows/release.yml",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/new/main",
-    "title": "/new/main",
     "count": 1,
     "uniques": 1
   }
