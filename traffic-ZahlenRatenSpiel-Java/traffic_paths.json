@@ -3,11 +3,17 @@
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/tree/traffic",
     "title": "/tree/traffic",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
+    "title": "/releases",
     "count": 2,
     "uniques": 1
   },
@@ -20,12 +26,6 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/src/Main.java",
     "title": "/blob/main/src/Main.java",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
-    "title": "/releases",
     "count": 1,
     "uniques": 1
   },
