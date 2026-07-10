@@ -2,14 +2,8 @@
   {
     "path": "/RM-de/CurrencyConverter-Java",
     "title": "Overview",
-    "count": 6,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/CurrencyConverter-Java/releases",
-    "title": "/releases",
-    "count": 3,
-    "uniques": 1
+    "count": 9,
+    "uniques": 2
   },
   {
     "path": "/RM-de/CurrencyConverter-Java/tree/main/src",
@@ -20,6 +14,12 @@
   {
     "path": "/RM-de/CurrencyConverter-Java/blob/main/src/Main.java",
     "title": "/blob/main/src/Main.java",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/RM-de/CurrencyConverter-Java/releases",
+    "title": "/releases",
     "count": 2,
     "uniques": 1
   },

@@ -2,8 +2,8 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 2,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/release.yml",
