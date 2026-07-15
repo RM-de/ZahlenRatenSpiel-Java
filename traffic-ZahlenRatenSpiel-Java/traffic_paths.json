@@ -2,37 +2,7 @@
   {
     "path": "/RM-de/ZahlenRatenSpiel-Java",
     "title": "Overview",
-    "count": 4,
-    "uniques": 2
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions/workflows/release.yml",
-    "title": "/actions/workflows/release.yml",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/releases",
-    "title": "/releases",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/actions",
-    "title": "/actions",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/blob/main/src/Main.java",
-    "title": "/blob/main/src/Main.java",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/RM-de/ZahlenRatenSpiel-Java/tree/main/src",
-    "title": "/tree/main/src",
-    "count": 1,
     "uniques": 1
   }
 ]
